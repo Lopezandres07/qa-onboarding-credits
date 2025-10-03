@@ -1,5 +1,5 @@
 @login
-Feature: Servicio de loing
+Feature: Servicio de login
     Como usuario ya registrado quiero iniciar sesion para ingresar al sistema
 
     Background:
